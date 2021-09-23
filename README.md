@@ -17,7 +17,7 @@ A Python Scrapy spider for `https://www.skyscanner.com`. The spider should take 
 
 It must be able to `support roundtrip`, and `one-way` trips. If only the departure date is given, then it should be assumed it is a one-way trip.
 
-Once it searches, it should scrape the:
+<u>Once it searches, it should scrape the:</u>
 - Airline name
 - If it is a flexible ticket
 - Departure time
